@@ -24,7 +24,7 @@ Use the time series data from the UNIQX online retail site, and forecast future 
 * Jupyter
 
 ## Project Description
-UNIQZ is an online specialty gifts retailer that has become popular because of its ability to carry on-trend and unique gifts at reasonable price points. Given Retail transactional historical data, UNIQX would like to forecast the demand for a popoular item, clocks, and ensure adequate supply, as well as test the concept for other items they would like to forecast in the future.
+UNIQX is an online specialty gifts retailer that has become popular because of its ability to carry on-trend and unique gifts at reasonable price points. Given Retail transactional historical data, UNIQX would like to forecast the demand for a popoular item, clocks, and ensure adequate supply, as well as test the concept for other items they would like to forecast in the future.
 
 ## Needs of this project 
 
